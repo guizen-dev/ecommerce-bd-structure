@@ -21,6 +21,11 @@ Welcome to the E-Commerce Database Project! This repository showcases a fictiona
 
 - **Sample Data:** The repository includes sample data to demonstrate the database's functionality.
 
+## Diagram
+![image](https://github.com/guizen-dev/ecommerce-bd-structure/assets/94479811/ecb37974-4bd6-4a37-a45a-bf9b6e18b8da)
+
+
+
 ## Database Structure
 
 The database consists of several interconnected tables, including but not limited to:
